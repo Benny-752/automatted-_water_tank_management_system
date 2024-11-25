@@ -16,7 +16,7 @@ def fetch_sensor_data():
 
     # Headers (if required by the server)
     headers = {
-    "Content-Type": "application/json",
+    "Content-Type": "text/html; charset=utf-8",
     "Authorization": "Bearer your_token_here",
     "User-Agent": "YourAppName/1.0",
     "Accept": "application/json"
@@ -28,7 +28,7 @@ def fetch_sensor_data():
         response = requests.post(url, json=payload)
 
         # Checking for successful response
-        if response.status_code == 200:
+        if response.status_code == 404:
             # Parsing the response JSON
             data = response.json()
             return data["data"]["data"]  # Adjust key structure if different
