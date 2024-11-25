@@ -16,13 +16,16 @@ def fetch_sensor_data():
 
     # Headers (if required by the server)
     headers = {
-        "Content-Type": "application/json",  # Specifies the data format
-        "Authorization": "Bearer your_token_here"  # Include if authentication is needed
+    "Content-Type": "application/json",
+    "Authorization": "Bearer your_token_here",
+    "User-Agent": "YourAppName/1.0",
+    "Accept": "application/json"
     }
+
 
     try:
         # Making the POST request
-        response = requests.post(url, json=payload, headers=headers)
+        response = requests.post(url, json=payload)
 
         # Checking for successful response
         if response.status_code == 200:
