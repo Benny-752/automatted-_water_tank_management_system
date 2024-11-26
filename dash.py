@@ -85,13 +85,13 @@ for sensor in ["gaseSensor"]:
     fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
     st.plotly_chart(fig)
 for sensor in ["solar-sensor"]:
-    st.subheader(f"{sensor} Over Time")
+    st.subheader("Solar energy consumed Vs Time")
     fig = px.line(
         df,
         x="Timestamp",
         y=sensor,
         #title=f"{sensor} Over Time",
-        labels={"Timestamp": "Time", sensor: "Sensor Value"},
+        labels={"Timestamp": "Time", sensor: "SSolar energy"},
         line_shape="linear",
         markers=True,
     )
