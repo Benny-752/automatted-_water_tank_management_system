@@ -65,9 +65,9 @@ for sensor in ["floatSensor"]:
     # Create the bar chart using Plotly Express
     fig = px.bar(
         df,
-        x="Time",
-        y="Water level",
-        #labels={"Timestamp": "Time", sensor: "Water level"},
+        x="Timestamp",
+        y=sensor,
+        labels={"Timestamp": "Time", sensor: "Water level"},
         #title=f"{sensor} Water Level Over Time",
     )
     
