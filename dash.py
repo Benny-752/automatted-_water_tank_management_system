@@ -91,7 +91,7 @@ for sensor in ["solar-sensor"]:
         x="Timestamp",
         y=sensor,
         #title=f"{sensor} Over Time",
-        labels={"Timestamp": "Time", sensor: "SSolar energy"},
+        labels={"Timestamp": "Time", sensor: "Solar energy consumption"},
         line_shape="linear",
         markers=True,
     )
