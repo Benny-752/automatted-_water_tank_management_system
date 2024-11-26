@@ -57,7 +57,7 @@ st.markdown(
     """, unsafe_allow_html=True
 )
 for sensor in ["floatSensor"]:
-    st.subheader(f"{sensor} Over Time")
+    st.subheader("Water level Vs Time")
     fig = px.line(
         df,
         x="Timestamp",
