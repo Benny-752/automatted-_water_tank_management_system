@@ -56,12 +56,7 @@ st.markdown(
     <h2 style='text-align: center;'>💧📊Sensor Data Visualization📉☀️</h2>
     """, unsafe_allow_html=True
 )
-df = pd.DataFrame(data)
 
-# Define sensor colors (custom colors for each sensor)
-sensor_colors = {
-    "floatSensor": "blue",  # Example color for the sensor
-}
 
 # Loop over each sensor to plot the bar chart
 for sensor in ["floatSensor"]:
