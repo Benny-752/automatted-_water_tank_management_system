@@ -67,7 +67,7 @@ for sensor in ["floatSensor"]:
         df,
         x="Timestamp",
         y=sensor,
-        labels={"Timestamp": "Time", sensor: "Water level"},
+        labels={"Timestamp": "Time", sensor: "Water level (L)"},
         #title=f"{sensor} Water Level Over Time",
     )
     
@@ -83,7 +83,7 @@ for sensor in ["gaseSensor"]:
         df,
         x="Timestamp",
         y=sensor,
-        labels={"Timestamp": "Time", sensor: "Gas level"},
+        labels={"Timestamp": "Time", sensor: "Gas level (ppm)"},
         #title=f"{sensor} Water Level Over Time",
     )
     
@@ -99,7 +99,7 @@ for sensor in ["solar-sensor"]:
         df,
         x="Timestamp",
         y=sensor,
-        labels={"Timestamp": "Time", sensor: "Solar Energy consumption"},
+        labels={"Timestamp": "Time", sensor: "Solar Energy consumption (KW)"},
         #title=f"{sensor} Water Level Over Time",
     )
     
