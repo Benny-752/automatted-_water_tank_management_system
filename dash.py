@@ -67,12 +67,12 @@ for sensor in ["floatSensor"]:
         df,
         x="Timestamp",
         y=sensor,
-        labels={"Timestamp": "Time", sensor: "Water level"},
+        #labels={"Timestamp": "Time", sensor: "Water level"},
         title=f"{sensor} Water Level Over Time",
     )
     
     # Set the custom color for the sensor's bars
-    fig.update_traces(marker=dict(color=sensor_colors[sensor], line=dict(width=2)))
+    fig.update_traces(marker=dict(color=sensor_colors[sensor], line=dict(width=7)))
     
     # Display the chart in Streamlit
     st.plotly_chart(fig)
