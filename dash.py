@@ -56,19 +56,30 @@ st.markdown(
     <h2 style='text-align: center;'>💧📊Sensor Data Visualization📉☀️</h2>
     """, unsafe_allow_html=True
 )
+df = pd.DataFrame(data)
+
+# Define sensor colors (custom colors for each sensor)
+sensor_colors = {
+    "floatSensor": "blue",  # Example color for the sensor
+}
+
+# Loop over each sensor to plot the bar chart
 for sensor in ["floatSensor"]:
     st.subheader("Water level Vs Time")
-    fig = px.line(
+    
+    # Create the bar chart using Plotly Express
+    fig = px.bar(
         df,
         x="Timestamp",
         y=sensor,
-        #title=f"{sensor} Over Time",
         labels={"Timestamp": "Time", sensor: "Water level"},
-        line_shape="linear",
-        markers=True,
+        title=f"{sensor} Water Level Over Time",
     )
-    # Set the custom color for the sensor
-    fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
+    
+    # Set the custom color for the sensor's bars
+    fig.update_traces(marker=dict(color=sensor_colors[sensor], line=dict(width=2)))
+    
+    # Display the chart in Streamlit
     st.plotly_chart(fig)
 for sensor in ["gaseSensor"]:
     st.subheader("Gas level Vs time")
