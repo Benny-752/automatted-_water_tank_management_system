@@ -72,7 +72,7 @@ for sensor in ["floatSensor"]:
     )
     
     # Set the custom color for the sensor's bars
-    fig.update_traces(marker=dict(color=sensor_colors[sensor], line=dict(width=7)))
+    fig.update_traces(marker=dict(color="blue", line=dict(width=7)))
     
     # Display the chart in Streamlit
     st.plotly_chart(fig)
