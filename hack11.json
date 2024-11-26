@@ -41650,6 +41650,3030 @@
                 "floatSensor": "5.71",
                 "gaseSensor": "2404.39",
                 "solar-sensor": "833.74"
+            },
+            {
+                "Timestamp": "2024-11-26T07:44:25.360Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.86",
+                "gaseSensor": "2264.26",
+                "solar-sensor": "742.84"
+            },
+            {
+                "Timestamp": "2024-11-26T07:44:32.526Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.27",
+                "gaseSensor": "1055.04",
+                "solar-sensor": "711.59"
+            },
+            {
+                "Timestamp": "2024-11-26T07:44:42.530Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.76",
+                "gaseSensor": "4549.98",
+                "solar-sensor": "291.91"
+            },
+            {
+                "Timestamp": "2024-11-26T07:44:52.622Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.24",
+                "gaseSensor": "4535.26",
+                "solar-sensor": "451.27"
+            },
+            {
+                "Timestamp": "2024-11-26T07:45:02.548Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.27",
+                "gaseSensor": "3980.17",
+                "solar-sensor": "312.74"
+            },
+            {
+                "Timestamp": "2024-11-26T07:45:12.476Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.09",
+                "gaseSensor": "4028.90",
+                "solar-sensor": "657.10"
+            },
+            {
+                "Timestamp": "2024-11-26T07:45:22.553Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.15",
+                "gaseSensor": "124.45",
+                "solar-sensor": "177.54"
+            },
+            {
+                "Timestamp": "2024-11-26T07:45:32.563Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.99",
+                "gaseSensor": "202.98",
+                "solar-sensor": "796.63"
+            },
+            {
+                "Timestamp": "2024-11-26T07:45:42.775Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.33",
+                "gaseSensor": "1209.78",
+                "solar-sensor": "747.20"
+            },
+            {
+                "Timestamp": "2024-11-26T07:45:52.655Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.95",
+                "gaseSensor": "2876.62",
+                "solar-sensor": "37.17"
+            },
+            {
+                "Timestamp": "2024-11-26T07:46:02.632Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.91",
+                "gaseSensor": "667.62",
+                "solar-sensor": "456.90"
+            },
+            {
+                "Timestamp": "2024-11-26T07:46:12.622Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.90",
+                "gaseSensor": "1227.86",
+                "solar-sensor": "537.55"
+            },
+            {
+                "Timestamp": "2024-11-26T07:46:22.587Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.15",
+                "gaseSensor": "1030.23",
+                "solar-sensor": "607.95"
+            },
+            {
+                "Timestamp": "2024-11-26T07:46:32.638Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.86",
+                "gaseSensor": "4618.72",
+                "solar-sensor": "67.91"
+            },
+            {
+                "Timestamp": "2024-11-26T07:46:42.595Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.12",
+                "gaseSensor": "3711.84",
+                "solar-sensor": "549.51"
+            },
+            {
+                "Timestamp": "2024-11-26T07:46:52.616Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.23",
+                "gaseSensor": "3302.60",
+                "solar-sensor": "501.57"
+            },
+            {
+                "Timestamp": "2024-11-26T07:47:02.604Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.92",
+                "gaseSensor": "3578.79",
+                "solar-sensor": "371.98"
+            },
+            {
+                "Timestamp": "2024-11-26T07:47:18.367Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.38",
+                "gaseSensor": "1489.86",
+                "solar-sensor": "913.86"
+            },
+            {
+                "Timestamp": "2024-11-26T07:47:22.466Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.42",
+                "gaseSensor": "2500.53",
+                "solar-sensor": "413.41"
+            },
+            {
+                "Timestamp": "2024-11-26T07:47:36.611Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.07",
+                "gaseSensor": "538.91",
+                "solar-sensor": "476.19"
+            },
+            {
+                "Timestamp": "2024-11-26T07:47:42.902Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.33",
+                "gaseSensor": "3860.41",
+                "solar-sensor": "661.56"
+            },
+            {
+                "Timestamp": "2024-11-26T07:47:52.853Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.34",
+                "gaseSensor": "950.66",
+                "solar-sensor": "658.41"
+            },
+            {
+                "Timestamp": "2024-11-26T07:48:02.862Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.22",
+                "gaseSensor": "3428.75",
+                "solar-sensor": "78.89"
+            },
+            {
+                "Timestamp": "2024-11-26T07:48:12.915Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.62",
+                "gaseSensor": "1023.18",
+                "solar-sensor": "68.54"
+            },
+            {
+                "Timestamp": "2024-11-26T07:48:22.857Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.03",
+                "gaseSensor": "2473.57",
+                "solar-sensor": "800.98"
+            },
+            {
+                "Timestamp": "2024-11-26T07:48:32.932Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.22",
+                "gaseSensor": "3962.78",
+                "solar-sensor": "163.66"
+            },
+            {
+                "Timestamp": "2024-11-26T07:49:26.974Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.12",
+                "gaseSensor": "4980.93",
+                "solar-sensor": "240.68"
+            },
+            {
+                "Timestamp": "2024-11-26T07:50:29.535Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.09",
+                "gaseSensor": "3372.05",
+                "solar-sensor": "667.59"
+            },
+            {
+                "Timestamp": "2024-11-26T07:51:26.866Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.32",
+                "gaseSensor": "3248.84",
+                "solar-sensor": "196.45"
+            },
+            {
+                "Timestamp": "2024-11-26T07:52:27.072Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.31",
+                "gaseSensor": "1311.04",
+                "solar-sensor": "469.96"
+            },
+            {
+                "Timestamp": "2024-11-26T07:53:27.939Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.87",
+                "gaseSensor": "2829.47",
+                "solar-sensor": "684.73"
+            },
+            {
+                "Timestamp": "2024-11-26T07:53:37.917Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.69",
+                "gaseSensor": "4720.44",
+                "solar-sensor": "406.55"
+            },
+            {
+                "Timestamp": "2024-11-26T07:53:47.825Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.95",
+                "gaseSensor": "2535.70",
+                "solar-sensor": "271.20"
+            },
+            {
+                "Timestamp": "2024-11-26T07:54:04.866Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.51",
+                "gaseSensor": "1175.24",
+                "solar-sensor": "570.36"
+            },
+            {
+                "Timestamp": "2024-11-26T07:54:14.883Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.59",
+                "gaseSensor": "3385.52",
+                "solar-sensor": "797.38"
+            },
+            {
+                "Timestamp": "2024-11-26T07:54:24.848Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.52",
+                "gaseSensor": "629.21",
+                "solar-sensor": "242.87"
+            },
+            {
+                "Timestamp": "2024-11-26T07:54:44.911Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.47",
+                "gaseSensor": "4240.70",
+                "solar-sensor": "878.98"
+            },
+            {
+                "Timestamp": "2024-11-26T07:54:54.888Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.24",
+                "gaseSensor": "120.72",
+                "solar-sensor": "503.01"
+            },
+            {
+                "Timestamp": "2024-11-26T07:55:04.872Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.31",
+                "gaseSensor": "4441.29",
+                "solar-sensor": "773.50"
+            },
+            {
+                "Timestamp": "2024-11-26T07:55:14.876Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.43",
+                "gaseSensor": "665.67",
+                "solar-sensor": "18.57"
+            },
+            {
+                "Timestamp": "2024-11-26T07:55:26.962Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.70",
+                "gaseSensor": "496.72",
+                "solar-sensor": "852.94"
+            },
+            {
+                "Timestamp": "2024-11-26T07:56:17.133Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.91",
+                "gaseSensor": "1133.32",
+                "solar-sensor": "107.26"
+            },
+            {
+                "Timestamp": "2024-11-26T07:56:27.158Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.11",
+                "gaseSensor": "2304.35",
+                "solar-sensor": "531.55"
+            },
+            {
+                "Timestamp": "2024-11-26T07:56:37.032Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.87",
+                "gaseSensor": "3032.95",
+                "solar-sensor": "185.34"
+            },
+            {
+                "Timestamp": "2024-11-26T07:56:47.034Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.31",
+                "gaseSensor": "1033.48",
+                "solar-sensor": "421.57"
+            },
+            {
+                "Timestamp": "2024-11-26T07:56:57.016Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.75",
+                "gaseSensor": "706.12",
+                "solar-sensor": "173.28"
+            },
+            {
+                "Timestamp": "2024-11-26T07:57:07.117Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.81",
+                "gaseSensor": "2607.45",
+                "solar-sensor": "98.95"
+            },
+            {
+                "Timestamp": "2024-11-26T07:57:17.037Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.02",
+                "gaseSensor": "328.56",
+                "solar-sensor": "153.24"
+            },
+            {
+                "Timestamp": "2024-11-26T07:57:27.053Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.11",
+                "gaseSensor": "4950.84",
+                "solar-sensor": "123.66"
+            },
+            {
+                "Timestamp": "2024-11-26T07:57:37.072Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.52",
+                "gaseSensor": "518.04",
+                "solar-sensor": "208.56"
+            },
+            {
+                "Timestamp": "2024-11-26T07:57:47.053Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.20",
+                "gaseSensor": "421.30",
+                "solar-sensor": "277.20"
+            },
+            {
+                "Timestamp": "2024-11-26T07:57:57.060Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.66",
+                "gaseSensor": "1819.73",
+                "solar-sensor": "301.02"
+            },
+            {
+                "Timestamp": "2024-11-26T07:58:13.562Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.93",
+                "gaseSensor": "3250.40",
+                "solar-sensor": "29.54"
+            },
+            {
+                "Timestamp": "2024-11-26T07:58:23.541Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.30",
+                "gaseSensor": "4884.51",
+                "solar-sensor": "656.95"
+            },
+            {
+                "Timestamp": "2024-11-26T07:58:33.499Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.43",
+                "gaseSensor": "3785.70",
+                "solar-sensor": "98.38"
+            },
+            {
+                "Timestamp": "2024-11-26T07:58:43.539Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.30",
+                "gaseSensor": "3336.75",
+                "solar-sensor": "63.73"
+            },
+            {
+                "Timestamp": "2024-11-26T07:58:58.990Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.01",
+                "gaseSensor": "2523.39",
+                "solar-sensor": "232.98"
+            },
+            {
+                "Timestamp": "2024-11-26T07:59:31.376Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.28",
+                "gaseSensor": "2082.73",
+                "solar-sensor": "160.32"
+            },
+            {
+                "Timestamp": "2024-11-26T07:59:41.333Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.29",
+                "gaseSensor": "985.50",
+                "solar-sensor": "331.55"
+            },
+            {
+                "Timestamp": "2024-11-26T07:59:51.435Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.35",
+                "gaseSensor": "2812.76",
+                "solar-sensor": "673.92"
+            },
+            {
+                "Timestamp": "2024-11-26T08:00:01.424Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.57",
+                "gaseSensor": "2550.81",
+                "solar-sensor": "84.44"
+            },
+            {
+                "Timestamp": "2024-11-26T08:00:11.375Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.80",
+                "gaseSensor": "2591.41",
+                "solar-sensor": "360.93"
+            },
+            {
+                "Timestamp": "2024-11-26T08:00:21.345Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.65",
+                "gaseSensor": "3209.25",
+                "solar-sensor": "599.98"
+            },
+            {
+                "Timestamp": "2024-11-26T08:00:31.369Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.98",
+                "gaseSensor": "2562.56",
+                "solar-sensor": "473.87"
+            },
+            {
+                "Timestamp": "2024-11-26T08:00:41.412Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.68",
+                "gaseSensor": "984.08",
+                "solar-sensor": "530.77"
+            },
+            {
+                "Timestamp": "2024-11-26T08:00:51.397Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.87",
+                "gaseSensor": "2251.82",
+                "solar-sensor": "543.49"
+            },
+            {
+                "Timestamp": "2024-11-26T08:01:01.369Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.05",
+                "gaseSensor": "4234.54",
+                "solar-sensor": "630.69"
+            },
+            {
+                "Timestamp": "2024-11-26T08:01:11.395Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.01",
+                "gaseSensor": "4785.56",
+                "solar-sensor": "746.19"
+            },
+            {
+                "Timestamp": "2024-11-26T08:01:21.440Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.30",
+                "gaseSensor": "4144.93",
+                "solar-sensor": "402.44"
+            },
+            {
+                "Timestamp": "2024-11-26T08:01:31.389Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.26",
+                "gaseSensor": "4303.56",
+                "solar-sensor": "445.48"
+            },
+            {
+                "Timestamp": "2024-11-26T08:01:41.374Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.83",
+                "gaseSensor": "2477.83",
+                "solar-sensor": "952.49"
+            },
+            {
+                "Timestamp": "2024-11-26T08:01:51.445Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.16",
+                "gaseSensor": "767.84",
+                "solar-sensor": "926.88"
+            },
+            {
+                "Timestamp": "2024-11-26T08:02:01.379Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.96",
+                "gaseSensor": "214.04",
+                "solar-sensor": "325.60"
+            },
+            {
+                "Timestamp": "2024-11-26T08:02:11.449Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.17",
+                "gaseSensor": "1316.24",
+                "solar-sensor": "269.49"
+            },
+            {
+                "Timestamp": "2024-11-26T08:02:21.405Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.58",
+                "gaseSensor": "620.59",
+                "solar-sensor": "607.16"
+            },
+            {
+                "Timestamp": "2024-11-26T08:02:31.385Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.55",
+                "gaseSensor": "4949.64",
+                "solar-sensor": "425.64"
+            },
+            {
+                "Timestamp": "2024-11-26T08:02:41.421Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.51",
+                "gaseSensor": "3923.01",
+                "solar-sensor": "301.49"
+            },
+            {
+                "Timestamp": "2024-11-26T08:02:51.392Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.66",
+                "gaseSensor": "167.45",
+                "solar-sensor": "203.23"
+            },
+            {
+                "Timestamp": "2024-11-26T08:03:01.406Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.70",
+                "gaseSensor": "1990.10",
+                "solar-sensor": "441.89"
+            },
+            {
+                "Timestamp": "2024-11-26T08:03:11.435Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.14",
+                "gaseSensor": "2.66",
+                "solar-sensor": "863.81"
+            },
+            {
+                "Timestamp": "2024-11-26T08:03:21.406Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.97",
+                "gaseSensor": "2482.90",
+                "solar-sensor": "489.21"
+            },
+            {
+                "Timestamp": "2024-11-26T08:03:31.475Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.63",
+                "gaseSensor": "2700.66",
+                "solar-sensor": "716.76"
+            },
+            {
+                "Timestamp": "2024-11-26T08:03:41.437Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.27",
+                "gaseSensor": "750.84",
+                "solar-sensor": "902.40"
+            },
+            {
+                "Timestamp": "2024-11-26T08:03:51.400Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.95",
+                "gaseSensor": "419.00",
+                "solar-sensor": "706.43"
+            },
+            {
+                "Timestamp": "2024-11-26T08:04:01.424Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.46",
+                "gaseSensor": "2639.24",
+                "solar-sensor": "878.49"
+            },
+            {
+                "Timestamp": "2024-11-26T08:04:11.411Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.31",
+                "gaseSensor": "3035.08",
+                "solar-sensor": "62.20"
+            },
+            {
+                "Timestamp": "2024-11-26T08:04:21.436Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.29",
+                "gaseSensor": "1896.19",
+                "solar-sensor": "177.60"
+            },
+            {
+                "Timestamp": "2024-11-26T08:04:31.416Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.70",
+                "gaseSensor": "2491.61",
+                "solar-sensor": "264.23"
+            },
+            {
+                "Timestamp": "2024-11-26T08:04:41.393Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.05",
+                "gaseSensor": "2571.60",
+                "solar-sensor": "411.13"
+            },
+            {
+                "Timestamp": "2024-11-26T08:04:51.398Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.12",
+                "gaseSensor": "4252.71",
+                "solar-sensor": "9.64"
+            },
+            {
+                "Timestamp": "2024-11-26T08:05:01.382Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.94",
+                "gaseSensor": "64.46",
+                "solar-sensor": "747.44"
+            },
+            {
+                "Timestamp": "2024-11-26T08:05:11.344Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.17",
+                "gaseSensor": "829.65",
+                "solar-sensor": "195.33"
+            },
+            {
+                "Timestamp": "2024-11-26T08:05:21.398Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.90",
+                "gaseSensor": "3502.31",
+                "solar-sensor": "384.45"
+            },
+            {
+                "Timestamp": "2024-11-26T08:05:31.367Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.16",
+                "gaseSensor": "4883.05",
+                "solar-sensor": "35.17"
+            },
+            {
+                "Timestamp": "2024-11-26T08:05:41.395Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.05",
+                "gaseSensor": "4048.46",
+                "solar-sensor": "260.17"
+            },
+            {
+                "Timestamp": "2024-11-26T08:05:51.442Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.23",
+                "gaseSensor": "3636.80",
+                "solar-sensor": "904.55"
+            },
+            {
+                "Timestamp": "2024-11-26T08:06:01.375Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.90",
+                "gaseSensor": "4751.58",
+                "solar-sensor": "63.12"
+            },
+            {
+                "Timestamp": "2024-11-26T08:06:11.482Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.42",
+                "gaseSensor": "643.75",
+                "solar-sensor": "492.05"
+            },
+            {
+                "Timestamp": "2024-11-26T08:06:21.395Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.01",
+                "gaseSensor": "2757.86",
+                "solar-sensor": "372.79"
+            },
+            {
+                "Timestamp": "2024-11-26T08:06:31.427Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.93",
+                "gaseSensor": "1353.88",
+                "solar-sensor": "679.32"
+            },
+            {
+                "Timestamp": "2024-11-26T08:06:41.399Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.71",
+                "gaseSensor": "2046.36",
+                "solar-sensor": "747.24"
+            },
+            {
+                "Timestamp": "2024-11-26T08:06:51.388Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.81",
+                "gaseSensor": "3548.29",
+                "solar-sensor": "126.60"
+            },
+            {
+                "Timestamp": "2024-11-26T08:07:01.410Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.18",
+                "gaseSensor": "4125.36",
+                "solar-sensor": "846.67"
+            },
+            {
+                "Timestamp": "2024-11-26T08:07:11.397Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.21",
+                "gaseSensor": "1141.24",
+                "solar-sensor": "469.99"
+            },
+            {
+                "Timestamp": "2024-11-26T08:07:21.387Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.36",
+                "gaseSensor": "248.82",
+                "solar-sensor": "313.85"
+            },
+            {
+                "Timestamp": "2024-11-26T08:07:31.451Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.11",
+                "gaseSensor": "3456.75",
+                "solar-sensor": "603.35"
+            },
+            {
+                "Timestamp": "2024-11-26T08:07:41.438Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.72",
+                "gaseSensor": "4112.29",
+                "solar-sensor": "806.79"
+            },
+            {
+                "Timestamp": "2024-11-26T08:07:51.393Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.97",
+                "gaseSensor": "2670.50",
+                "solar-sensor": "516.93"
+            },
+            {
+                "Timestamp": "2024-11-26T08:08:01.392Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.22",
+                "gaseSensor": "1547.69",
+                "solar-sensor": "530.55"
+            },
+            {
+                "Timestamp": "2024-11-26T08:08:11.403Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.44",
+                "gaseSensor": "4594.62",
+                "solar-sensor": "427.75"
+            },
+            {
+                "Timestamp": "2024-11-26T08:08:21.440Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.93",
+                "gaseSensor": "323.02",
+                "solar-sensor": "699.71"
+            },
+            {
+                "Timestamp": "2024-11-26T08:08:31.472Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.52",
+                "gaseSensor": "278.87",
+                "solar-sensor": "145.89"
+            },
+            {
+                "Timestamp": "2024-11-26T08:08:41.451Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.85",
+                "gaseSensor": "2794.26",
+                "solar-sensor": "214.84"
+            },
+            {
+                "Timestamp": "2024-11-26T08:08:51.381Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.94",
+                "gaseSensor": "1843.45",
+                "solar-sensor": "924.19"
+            },
+            {
+                "Timestamp": "2024-11-26T08:09:01.466Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.76",
+                "gaseSensor": "2372.52",
+                "solar-sensor": "191.76"
+            },
+            {
+                "Timestamp": "2024-11-26T08:09:11.410Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.27",
+                "gaseSensor": "868.15",
+                "solar-sensor": "383.79"
+            },
+            {
+                "Timestamp": "2024-11-26T08:09:21.509Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.24",
+                "gaseSensor": "4396.90",
+                "solar-sensor": "752.21"
+            },
+            {
+                "Timestamp": "2024-11-26T08:09:31.421Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.76",
+                "gaseSensor": "1704.68",
+                "solar-sensor": "580.71"
+            },
+            {
+                "Timestamp": "2024-11-26T08:09:41.460Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.37",
+                "gaseSensor": "2368.28",
+                "solar-sensor": "314.34"
+            },
+            {
+                "Timestamp": "2024-11-26T08:09:51.399Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.64",
+                "gaseSensor": "823.18",
+                "solar-sensor": "312.22"
+            },
+            {
+                "Timestamp": "2024-11-26T08:10:01.428Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.80",
+                "gaseSensor": "3461.99",
+                "solar-sensor": "602.89"
+            },
+            {
+                "Timestamp": "2024-11-26T08:10:12.207Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.73",
+                "gaseSensor": "3587.76",
+                "solar-sensor": "976.05"
+            },
+            {
+                "Timestamp": "2024-11-26T08:10:21.442Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.77",
+                "gaseSensor": "4297.49",
+                "solar-sensor": "194.04"
+            },
+            {
+                "Timestamp": "2024-11-26T08:10:31.464Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.61",
+                "gaseSensor": "403.61",
+                "solar-sensor": "98.40"
+            },
+            {
+                "Timestamp": "2024-11-26T08:10:41.420Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.74",
+                "gaseSensor": "3785.72",
+                "solar-sensor": "910.40"
+            },
+            {
+                "Timestamp": "2024-11-26T08:10:51.469Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.71",
+                "gaseSensor": "4868.03",
+                "solar-sensor": "456.84"
+            },
+            {
+                "Timestamp": "2024-11-26T08:11:01.425Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.92",
+                "gaseSensor": "3519.05",
+                "solar-sensor": "524.51"
+            },
+            {
+                "Timestamp": "2024-11-26T08:11:11.416Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.77",
+                "gaseSensor": "1221.19",
+                "solar-sensor": "491.45"
+            },
+            {
+                "Timestamp": "2024-11-26T08:11:21.434Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.32",
+                "gaseSensor": "3743.31",
+                "solar-sensor": "107.63"
+            },
+            {
+                "Timestamp": "2024-11-26T08:11:31.463Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.59",
+                "gaseSensor": "1880.37",
+                "solar-sensor": "201.31"
+            },
+            {
+                "Timestamp": "2024-11-26T08:11:41.452Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.47",
+                "gaseSensor": "997.91",
+                "solar-sensor": "978.22"
+            },
+            {
+                "Timestamp": "2024-11-26T08:11:51.424Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.73",
+                "gaseSensor": "470.68",
+                "solar-sensor": "527.88"
+            },
+            {
+                "Timestamp": "2024-11-26T08:12:01.408Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.77",
+                "gaseSensor": "4083.33",
+                "solar-sensor": "77.72"
+            },
+            {
+                "Timestamp": "2024-11-26T08:12:11.392Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.15",
+                "gaseSensor": "2951.90",
+                "solar-sensor": "111.06"
+            },
+            {
+                "Timestamp": "2024-11-26T08:12:21.455Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.29",
+                "gaseSensor": "1895.35",
+                "solar-sensor": "848.76"
+            },
+            {
+                "Timestamp": "2024-11-26T08:12:31.438Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.02",
+                "gaseSensor": "178.51",
+                "solar-sensor": "999.71"
+            },
+            {
+                "Timestamp": "2024-11-26T08:12:41.421Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.51",
+                "gaseSensor": "956.87",
+                "solar-sensor": "115.11"
+            },
+            {
+                "Timestamp": "2024-11-26T08:12:51.452Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.46",
+                "gaseSensor": "2487.30",
+                "solar-sensor": "228.57"
+            },
+            {
+                "Timestamp": "2024-11-26T08:13:01.391Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.18",
+                "gaseSensor": "1976.48",
+                "solar-sensor": "147.81"
+            },
+            {
+                "Timestamp": "2024-11-26T08:13:11.463Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.23",
+                "gaseSensor": "3352.93",
+                "solar-sensor": "530.14"
+            },
+            {
+                "Timestamp": "2024-11-26T08:13:21.424Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.09",
+                "gaseSensor": "610.80",
+                "solar-sensor": "26.57"
+            },
+            {
+                "Timestamp": "2024-11-26T08:13:31.383Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.50",
+                "gaseSensor": "1697.84",
+                "solar-sensor": "569.12"
+            },
+            {
+                "Timestamp": "2024-11-26T08:13:41.427Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.60",
+                "gaseSensor": "878.93",
+                "solar-sensor": "614.15"
+            },
+            {
+                "Timestamp": "2024-11-26T08:13:51.393Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.89",
+                "gaseSensor": "2347.77",
+                "solar-sensor": "705.28"
+            },
+            {
+                "Timestamp": "2024-11-26T08:14:01.461Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.26",
+                "gaseSensor": "2439.07",
+                "solar-sensor": "360.45"
+            },
+            {
+                "Timestamp": "2024-11-26T08:14:11.425Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.46",
+                "gaseSensor": "4950.75",
+                "solar-sensor": "683.96"
+            },
+            {
+                "Timestamp": "2024-11-26T08:14:21.456Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.64",
+                "gaseSensor": "1987.89",
+                "solar-sensor": "353.58"
+            },
+            {
+                "Timestamp": "2024-11-26T08:14:31.483Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.50",
+                "gaseSensor": "4758.55",
+                "solar-sensor": "949.18"
+            },
+            {
+                "Timestamp": "2024-11-26T08:14:41.422Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.08",
+                "gaseSensor": "4084.09",
+                "solar-sensor": "130.05"
+            },
+            {
+                "Timestamp": "2024-11-26T08:14:51.371Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.39",
+                "gaseSensor": "2007.38",
+                "solar-sensor": "428.47"
+            },
+            {
+                "Timestamp": "2024-11-26T08:15:01.452Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.26",
+                "gaseSensor": "2416.81",
+                "solar-sensor": "937.31"
+            },
+            {
+                "Timestamp": "2024-11-26T08:15:11.419Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.40",
+                "gaseSensor": "4888.43",
+                "solar-sensor": "198.63"
+            },
+            {
+                "Timestamp": "2024-11-26T08:15:21.426Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.70",
+                "gaseSensor": "4034.94",
+                "solar-sensor": "778.38"
+            },
+            {
+                "Timestamp": "2024-11-26T08:15:31.417Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.95",
+                "gaseSensor": "1199.98",
+                "solar-sensor": "603.48"
+            },
+            {
+                "Timestamp": "2024-11-26T08:15:41.460Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.24",
+                "gaseSensor": "3876.53",
+                "solar-sensor": "939.35"
+            },
+            {
+                "Timestamp": "2024-11-26T08:15:51.369Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.82",
+                "gaseSensor": "622.02",
+                "solar-sensor": "268.01"
+            },
+            {
+                "Timestamp": "2024-11-26T08:16:01.434Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.54",
+                "gaseSensor": "2076.16",
+                "solar-sensor": "284.96"
+            },
+            {
+                "Timestamp": "2024-11-26T08:16:11.460Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.14",
+                "gaseSensor": "1745.76",
+                "solar-sensor": "600.58"
+            },
+            {
+                "Timestamp": "2024-11-26T08:16:21.423Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.94",
+                "gaseSensor": "68.92",
+                "solar-sensor": "761.89"
+            },
+            {
+                "Timestamp": "2024-11-26T08:16:31.486Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.95",
+                "gaseSensor": "4162.32",
+                "solar-sensor": "238.60"
+            },
+            {
+                "Timestamp": "2024-11-26T08:16:41.493Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.19",
+                "gaseSensor": "1995.98",
+                "solar-sensor": "185.50"
+            },
+            {
+                "Timestamp": "2024-11-26T08:16:51.408Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.99",
+                "gaseSensor": "1376.51",
+                "solar-sensor": "4.71"
+            },
+            {
+                "Timestamp": "2024-11-26T08:17:01.474Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.21",
+                "gaseSensor": "3072.03",
+                "solar-sensor": "72.56"
+            },
+            {
+                "Timestamp": "2024-11-26T08:17:11.374Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.48",
+                "gaseSensor": "118.72",
+                "solar-sensor": "373.22"
+            },
+            {
+                "Timestamp": "2024-11-26T08:17:21.444Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.41",
+                "gaseSensor": "2962.97",
+                "solar-sensor": "307.06"
+            },
+            {
+                "Timestamp": "2024-11-26T08:17:31.415Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.65",
+                "gaseSensor": "2019.97",
+                "solar-sensor": "522.52"
+            },
+            {
+                "Timestamp": "2024-11-26T08:17:41.421Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.06",
+                "gaseSensor": "2437.91",
+                "solar-sensor": "447.20"
+            },
+            {
+                "Timestamp": "2024-11-26T08:17:51.461Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.83",
+                "gaseSensor": "3915.01",
+                "solar-sensor": "98.16"
+            },
+            {
+                "Timestamp": "2024-11-26T08:18:01.415Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.32",
+                "gaseSensor": "3522.43",
+                "solar-sensor": "327.87"
+            },
+            {
+                "Timestamp": "2024-11-26T08:18:11.429Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.66",
+                "gaseSensor": "2160.58",
+                "solar-sensor": "675.44"
+            },
+            {
+                "Timestamp": "2024-11-26T08:18:21.496Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.30",
+                "gaseSensor": "4433.25",
+                "solar-sensor": "863.48"
+            },
+            {
+                "Timestamp": "2024-11-26T08:18:31.400Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.08",
+                "gaseSensor": "2589.72",
+                "solar-sensor": "87.00"
+            },
+            {
+                "Timestamp": "2024-11-26T08:18:41.437Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.04",
+                "gaseSensor": "2055.62",
+                "solar-sensor": "228.60"
+            },
+            {
+                "Timestamp": "2024-11-26T08:18:51.422Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.81",
+                "gaseSensor": "3990.71",
+                "solar-sensor": "709.98"
+            },
+            {
+                "Timestamp": "2024-11-26T08:19:01.551Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.94",
+                "gaseSensor": "1848.71",
+                "solar-sensor": "159.31"
+            },
+            {
+                "Timestamp": "2024-11-26T08:19:11.497Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.91",
+                "gaseSensor": "1981.28",
+                "solar-sensor": "992.83"
+            },
+            {
+                "Timestamp": "2024-11-26T08:19:21.414Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.87",
+                "gaseSensor": "4753.22",
+                "solar-sensor": "333.22"
+            },
+            {
+                "Timestamp": "2024-11-26T08:19:31.421Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.57",
+                "gaseSensor": "2139.30",
+                "solar-sensor": "160.34"
+            },
+            {
+                "Timestamp": "2024-11-26T08:19:41.451Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.51",
+                "gaseSensor": "3123.20",
+                "solar-sensor": "558.23"
+            },
+            {
+                "Timestamp": "2024-11-26T08:19:51.367Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.15",
+                "gaseSensor": "4624.75",
+                "solar-sensor": "416.15"
+            },
+            {
+                "Timestamp": "2024-11-26T08:20:01.476Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.57",
+                "gaseSensor": "3996.39",
+                "solar-sensor": "511.88"
+            },
+            {
+                "Timestamp": "2024-11-26T08:20:11.479Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.72",
+                "gaseSensor": "2833.23",
+                "solar-sensor": "827.66"
+            },
+            {
+                "Timestamp": "2024-11-26T08:20:21.411Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.60",
+                "gaseSensor": "1899.75",
+                "solar-sensor": "200.25"
+            },
+            {
+                "Timestamp": "2024-11-26T08:20:31.450Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.14",
+                "gaseSensor": "3158.25",
+                "solar-sensor": "867.46"
+            },
+            {
+                "Timestamp": "2024-11-26T08:20:41.407Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.68",
+                "gaseSensor": "2785.37",
+                "solar-sensor": "531.05"
+            },
+            {
+                "Timestamp": "2024-11-26T08:20:51.439Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.12",
+                "gaseSensor": "584.22",
+                "solar-sensor": "979.33"
+            },
+            {
+                "Timestamp": "2024-11-26T08:21:01.479Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.18",
+                "gaseSensor": "1587.18",
+                "solar-sensor": "966.13"
+            },
+            {
+                "Timestamp": "2024-11-26T08:21:11.407Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.25",
+                "gaseSensor": "1321.13",
+                "solar-sensor": "853.76"
+            },
+            {
+                "Timestamp": "2024-11-26T08:21:21.411Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.07",
+                "gaseSensor": "1914.14",
+                "solar-sensor": "462.32"
+            },
+            {
+                "Timestamp": "2024-11-26T08:21:31.424Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.33",
+                "gaseSensor": "4449.72",
+                "solar-sensor": "530.26"
+            },
+            {
+                "Timestamp": "2024-11-26T08:21:41.461Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.05",
+                "gaseSensor": "3295.16",
+                "solar-sensor": "106.69"
+            },
+            {
+                "Timestamp": "2024-11-26T08:21:51.433Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.74",
+                "gaseSensor": "573.05",
+                "solar-sensor": "655.57"
+            },
+            {
+                "Timestamp": "2024-11-26T08:22:01.450Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.48",
+                "gaseSensor": "3975.51",
+                "solar-sensor": "310.18"
+            },
+            {
+                "Timestamp": "2024-11-26T08:22:11.507Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.07",
+                "gaseSensor": "4440.41",
+                "solar-sensor": "509.36"
+            },
+            {
+                "Timestamp": "2024-11-26T08:22:21.457Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.24",
+                "gaseSensor": "2839.18",
+                "solar-sensor": "908.57"
+            },
+            {
+                "Timestamp": "2024-11-26T08:22:31.454Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.34",
+                "gaseSensor": "132.88",
+                "solar-sensor": "749.37"
+            },
+            {
+                "Timestamp": "2024-11-26T08:22:41.493Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.60",
+                "gaseSensor": "4073.21",
+                "solar-sensor": "390.33"
+            },
+            {
+                "Timestamp": "2024-11-26T08:22:51.461Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.58",
+                "gaseSensor": "2129.26",
+                "solar-sensor": "439.93"
+            },
+            {
+                "Timestamp": "2024-11-26T08:23:01.480Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.42",
+                "gaseSensor": "3961.06",
+                "solar-sensor": "823.11"
+            },
+            {
+                "Timestamp": "2024-11-26T08:23:11.435Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.38",
+                "gaseSensor": "960.00",
+                "solar-sensor": "634.93"
+            },
+            {
+                "Timestamp": "2024-11-26T08:23:21.474Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.00",
+                "gaseSensor": "1096.30",
+                "solar-sensor": "9.72"
+            },
+            {
+                "Timestamp": "2024-11-26T08:23:31.493Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.02",
+                "gaseSensor": "3412.63",
+                "solar-sensor": "848.93"
+            },
+            {
+                "Timestamp": "2024-11-26T08:23:41.475Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.08",
+                "gaseSensor": "1191.76",
+                "solar-sensor": "774.01"
+            },
+            {
+                "Timestamp": "2024-11-26T08:23:51.487Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.43",
+                "gaseSensor": "3760.94",
+                "solar-sensor": "181.17"
+            },
+            {
+                "Timestamp": "2024-11-26T08:24:01.447Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.09",
+                "gaseSensor": "1713.58",
+                "solar-sensor": "252.45"
+            },
+            {
+                "Timestamp": "2024-11-26T08:24:11.437Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.82",
+                "gaseSensor": "2469.82",
+                "solar-sensor": "17.17"
+            },
+            {
+                "Timestamp": "2024-11-26T08:24:21.885Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.83",
+                "gaseSensor": "642.73",
+                "solar-sensor": "759.90"
+            },
+            {
+                "Timestamp": "2024-11-26T08:24:31.945Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.57",
+                "gaseSensor": "2735.09",
+                "solar-sensor": "612.69"
+            },
+            {
+                "Timestamp": "2024-11-26T08:24:41.919Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.99",
+                "gaseSensor": "1840.13",
+                "solar-sensor": "388.34"
+            },
+            {
+                "Timestamp": "2024-11-26T08:24:51.956Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.20",
+                "gaseSensor": "3585.85",
+                "solar-sensor": "647.82"
+            },
+            {
+                "Timestamp": "2024-11-26T08:25:01.950Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.67",
+                "gaseSensor": "2581.30",
+                "solar-sensor": "68.38"
+            },
+            {
+                "Timestamp": "2024-11-26T08:25:11.893Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.40",
+                "gaseSensor": "1288.14",
+                "solar-sensor": "359.86"
+            },
+            {
+                "Timestamp": "2024-11-26T08:25:26.947Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.57",
+                "gaseSensor": "1252.01",
+                "solar-sensor": "348.06"
+            },
+            {
+                "Timestamp": "2024-11-26T08:26:26.919Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.22",
+                "gaseSensor": "1606.97",
+                "solar-sensor": "718.10"
+            },
+            {
+                "Timestamp": "2024-11-26T08:27:27.068Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.55",
+                "gaseSensor": "4989.58",
+                "solar-sensor": "571.29"
+            },
+            {
+                "Timestamp": "2024-11-26T08:28:27.000Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.98",
+                "gaseSensor": "4662.94",
+                "solar-sensor": "714.50"
+            },
+            {
+                "Timestamp": "2024-11-26T08:29:27.016Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.08",
+                "gaseSensor": "4650.92",
+                "solar-sensor": "913.86"
+            },
+            {
+                "Timestamp": "2024-11-26T08:30:26.936Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.81",
+                "gaseSensor": "2439.89",
+                "solar-sensor": "70.01"
+            },
+            {
+                "Timestamp": "2024-11-26T08:31:26.971Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.17",
+                "gaseSensor": "4193.41",
+                "solar-sensor": "96.16"
+            },
+            {
+                "Timestamp": "2024-11-26T08:32:26.996Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.80",
+                "gaseSensor": "694.48",
+                "solar-sensor": "844.14"
+            },
+            {
+                "Timestamp": "2024-11-26T08:33:26.972Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.52",
+                "gaseSensor": "2969.37",
+                "solar-sensor": "35.68"
+            },
+            {
+                "Timestamp": "2024-11-26T08:34:26.983Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.65",
+                "gaseSensor": "1745.43",
+                "solar-sensor": "482.76"
+            },
+            {
+                "Timestamp": "2024-11-26T08:35:26.955Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.93",
+                "gaseSensor": "340.21",
+                "solar-sensor": "472.82"
+            },
+            {
+                "Timestamp": "2024-11-26T08:36:26.869Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.41",
+                "gaseSensor": "3638.05",
+                "solar-sensor": "362.34"
+            },
+            {
+                "Timestamp": "2024-11-26T08:37:26.908Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.15",
+                "gaseSensor": "3313.21",
+                "solar-sensor": "954.85"
+            },
+            {
+                "Timestamp": "2024-11-26T08:38:02.310Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.13",
+                "gaseSensor": "4528.57",
+                "solar-sensor": "250.08"
+            },
+            {
+                "Timestamp": "2024-11-26T08:38:11.868Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.06",
+                "gaseSensor": "2612.70",
+                "solar-sensor": "272.54"
+            },
+            {
+                "Timestamp": "2024-11-26T08:38:21.933Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.69",
+                "gaseSensor": "1953.42",
+                "solar-sensor": "123.62"
+            },
+            {
+                "Timestamp": "2024-11-26T08:38:32.005Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.17",
+                "gaseSensor": "4976.40",
+                "solar-sensor": "414.17"
+            },
+            {
+                "Timestamp": "2024-11-26T08:38:41.400Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.53",
+                "gaseSensor": "1548.64",
+                "solar-sensor": "274.46"
+            },
+            {
+                "Timestamp": "2024-11-26T08:38:51.437Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.53",
+                "gaseSensor": "4207.80",
+                "solar-sensor": "813.04"
+            },
+            {
+                "Timestamp": "2024-11-26T08:39:01.378Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.69",
+                "gaseSensor": "2669.02",
+                "solar-sensor": "928.34"
+            },
+            {
+                "Timestamp": "2024-11-26T08:39:11.461Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.24",
+                "gaseSensor": "4481.71",
+                "solar-sensor": "834.93"
+            },
+            {
+                "Timestamp": "2024-11-26T08:39:21.417Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.36",
+                "gaseSensor": "422.16",
+                "solar-sensor": "938.21"
+            },
+            {
+                "Timestamp": "2024-11-26T08:39:31.439Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.75",
+                "gaseSensor": "1181.08",
+                "solar-sensor": "267.18"
+            },
+            {
+                "Timestamp": "2024-11-26T08:39:41.394Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.69",
+                "gaseSensor": "604.45",
+                "solar-sensor": "54.18"
+            },
+            {
+                "Timestamp": "2024-11-26T08:39:51.446Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.52",
+                "gaseSensor": "56.50",
+                "solar-sensor": "346.87"
+            },
+            {
+                "Timestamp": "2024-11-26T08:40:01.421Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.85",
+                "gaseSensor": "2015.88",
+                "solar-sensor": "237.35"
+            },
+            {
+                "Timestamp": "2024-11-26T08:40:11.374Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.83",
+                "gaseSensor": "3328.83",
+                "solar-sensor": "948.60"
+            },
+            {
+                "Timestamp": "2024-11-26T08:40:21.458Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.40",
+                "gaseSensor": "3187.93",
+                "solar-sensor": "270.03"
+            },
+            {
+                "Timestamp": "2024-11-26T08:40:31.479Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.80",
+                "gaseSensor": "3418.82",
+                "solar-sensor": "554.98"
+            },
+            {
+                "Timestamp": "2024-11-26T08:40:41.443Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.91",
+                "gaseSensor": "2783.21",
+                "solar-sensor": "233.35"
+            },
+            {
+                "Timestamp": "2024-11-26T08:40:51.418Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.83",
+                "gaseSensor": "2459.13",
+                "solar-sensor": "922.40"
+            },
+            {
+                "Timestamp": "2024-11-26T08:41:01.469Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.44",
+                "gaseSensor": "1418.09",
+                "solar-sensor": "911.02"
+            },
+            {
+                "Timestamp": "2024-11-26T08:41:11.425Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.73",
+                "gaseSensor": "3809.46",
+                "solar-sensor": "558.41"
+            },
+            {
+                "Timestamp": "2024-11-26T08:41:21.398Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.97",
+                "gaseSensor": "51.06",
+                "solar-sensor": "298.97"
+            },
+            {
+                "Timestamp": "2024-11-26T08:41:31.399Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.63",
+                "gaseSensor": "476.54",
+                "solar-sensor": "392.44"
+            },
+            {
+                "Timestamp": "2024-11-26T08:41:41.402Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.41",
+                "gaseSensor": "2720.79",
+                "solar-sensor": "945.18"
+            },
+            {
+                "Timestamp": "2024-11-26T08:41:51.436Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.00",
+                "gaseSensor": "612.94",
+                "solar-sensor": "766.74"
+            },
+            {
+                "Timestamp": "2024-11-26T08:42:01.485Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.18",
+                "gaseSensor": "1762.30",
+                "solar-sensor": "236.63"
+            },
+            {
+                "Timestamp": "2024-11-26T08:42:11.391Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.93",
+                "gaseSensor": "2565.26",
+                "solar-sensor": "957.91"
+            },
+            {
+                "Timestamp": "2024-11-26T08:42:21.411Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.27",
+                "gaseSensor": "4261.71",
+                "solar-sensor": "528.45"
+            },
+            {
+                "Timestamp": "2024-11-26T08:42:31.381Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.46",
+                "gaseSensor": "583.92",
+                "solar-sensor": "117.56"
+            },
+            {
+                "Timestamp": "2024-11-26T08:42:41.376Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.09",
+                "gaseSensor": "3629.02",
+                "solar-sensor": "1.66"
+            },
+            {
+                "Timestamp": "2024-11-26T08:43:00.722Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.12",
+                "gaseSensor": "3853.88",
+                "solar-sensor": "237.89"
+            },
+            {
+                "Timestamp": "2024-11-26T08:43:10.639Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.99",
+                "gaseSensor": "2316.94",
+                "solar-sensor": "724.03"
+            },
+            {
+                "Timestamp": "2024-11-26T08:43:20.628Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.77",
+                "gaseSensor": "2137.75",
+                "solar-sensor": "976.74"
+            },
+            {
+                "Timestamp": "2024-11-26T08:43:30.646Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.52",
+                "gaseSensor": "75.51",
+                "solar-sensor": "492.23"
+            },
+            {
+                "Timestamp": "2024-11-26T08:43:40.794Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.69",
+                "gaseSensor": "4294.77",
+                "solar-sensor": "194.16"
+            },
+            {
+                "Timestamp": "2024-11-26T08:43:50.653Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.30",
+                "gaseSensor": "4612.11",
+                "solar-sensor": "482.89"
+            },
+            {
+                "Timestamp": "2024-11-26T08:44:00.664Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.33",
+                "gaseSensor": "4812.46",
+                "solar-sensor": "448.60"
+            },
+            {
+                "Timestamp": "2024-11-26T08:44:10.668Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.80",
+                "gaseSensor": "1324.90",
+                "solar-sensor": "514.27"
+            },
+            {
+                "Timestamp": "2024-11-26T08:44:20.687Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.86",
+                "gaseSensor": "480.67",
+                "solar-sensor": "781.57"
+            },
+            {
+                "Timestamp": "2024-11-26T08:44:30.683Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.30",
+                "gaseSensor": "3362.26",
+                "solar-sensor": "402.16"
+            },
+            {
+                "Timestamp": "2024-11-26T08:44:40.635Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.48",
+                "gaseSensor": "1498.95",
+                "solar-sensor": "932.15"
+            },
+            {
+                "Timestamp": "2024-11-26T08:44:50.711Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.64",
+                "gaseSensor": "552.91",
+                "solar-sensor": "21.17"
+            },
+            {
+                "Timestamp": "2024-11-26T08:45:00.713Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.33",
+                "gaseSensor": "522.24",
+                "solar-sensor": "164.27"
+            },
+            {
+                "Timestamp": "2024-11-26T08:45:10.650Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.90",
+                "gaseSensor": "752.24",
+                "solar-sensor": "133.00"
+            },
+            {
+                "Timestamp": "2024-11-26T08:45:20.653Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.08",
+                "gaseSensor": "4848.84",
+                "solar-sensor": "79.43"
+            },
+            {
+                "Timestamp": "2024-11-26T08:45:30.655Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.47",
+                "gaseSensor": "480.85",
+                "solar-sensor": "169.84"
+            },
+            {
+                "Timestamp": "2024-11-26T08:45:40.617Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.64",
+                "gaseSensor": "2458.73",
+                "solar-sensor": "426.85"
+            },
+            {
+                "Timestamp": "2024-11-26T08:45:50.649Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.07",
+                "gaseSensor": "201.95",
+                "solar-sensor": "887.18"
+            },
+            {
+                "Timestamp": "2024-11-26T08:46:00.661Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.48",
+                "gaseSensor": "4996.32",
+                "solar-sensor": "19.02"
+            },
+            {
+                "Timestamp": "2024-11-26T08:46:10.636Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.66",
+                "gaseSensor": "4405.00",
+                "solar-sensor": "837.16"
+            },
+            {
+                "Timestamp": "2024-11-26T08:46:20.699Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.48",
+                "gaseSensor": "3087.47",
+                "solar-sensor": "630.12"
+            },
+            {
+                "Timestamp": "2024-11-26T08:46:30.649Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.19",
+                "gaseSensor": "4615.71",
+                "solar-sensor": "953.83"
+            },
+            {
+                "Timestamp": "2024-11-26T08:46:40.651Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.72",
+                "gaseSensor": "3061.62",
+                "solar-sensor": "808.42"
+            },
+            {
+                "Timestamp": "2024-11-26T08:46:50.677Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.11",
+                "gaseSensor": "387.62",
+                "solar-sensor": "789.39"
+            },
+            {
+                "Timestamp": "2024-11-26T08:47:00.615Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.65",
+                "gaseSensor": "1040.56",
+                "solar-sensor": "437.38"
+            },
+            {
+                "Timestamp": "2024-11-26T08:47:10.679Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.32",
+                "gaseSensor": "1285.81",
+                "solar-sensor": "314.80"
+            },
+            {
+                "Timestamp": "2024-11-26T08:47:20.639Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.43",
+                "gaseSensor": "4416.85",
+                "solar-sensor": "847.33"
+            },
+            {
+                "Timestamp": "2024-11-26T08:47:30.708Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.41",
+                "gaseSensor": "2960.58",
+                "solar-sensor": "642.61"
+            },
+            {
+                "Timestamp": "2024-11-26T08:47:40.656Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.32",
+                "gaseSensor": "4359.20",
+                "solar-sensor": "276.09"
+            },
+            {
+                "Timestamp": "2024-11-26T08:47:50.636Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.44",
+                "gaseSensor": "676.68",
+                "solar-sensor": "500.48"
+            },
+            {
+                "Timestamp": "2024-11-26T08:48:00.707Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.76",
+                "gaseSensor": "3149.56",
+                "solar-sensor": "155.12"
+            },
+            {
+                "Timestamp": "2024-11-26T08:48:10.655Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.59",
+                "gaseSensor": "3820.47",
+                "solar-sensor": "29.38"
+            },
+            {
+                "Timestamp": "2024-11-26T08:48:20.625Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.37",
+                "gaseSensor": "288.09",
+                "solar-sensor": "598.96"
+            },
+            {
+                "Timestamp": "2024-11-26T08:48:30.671Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.94",
+                "gaseSensor": "239.33",
+                "solar-sensor": "896.96"
+            },
+            {
+                "Timestamp": "2024-11-26T08:48:40.651Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.55",
+                "gaseSensor": "4453.17",
+                "solar-sensor": "836.01"
+            },
+            {
+                "Timestamp": "2024-11-26T08:48:50.618Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.84",
+                "gaseSensor": "2491.11",
+                "solar-sensor": "511.11"
+            },
+            {
+                "Timestamp": "2024-11-26T08:49:00.742Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.49",
+                "gaseSensor": "3220.08",
+                "solar-sensor": "178.67"
+            },
+            {
+                "Timestamp": "2024-11-26T08:49:10.619Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.93",
+                "gaseSensor": "1300.83",
+                "solar-sensor": "459.70"
+            },
+            {
+                "Timestamp": "2024-11-26T08:49:20.678Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.62",
+                "gaseSensor": "1607.23",
+                "solar-sensor": "837.49"
+            },
+            {
+                "Timestamp": "2024-11-26T08:49:30.637Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.68",
+                "gaseSensor": "1257.52",
+                "solar-sensor": "671.55"
+            },
+            {
+                "Timestamp": "2024-11-26T08:49:40.626Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.64",
+                "gaseSensor": "583.51",
+                "solar-sensor": "592.23"
+            },
+            {
+                "Timestamp": "2024-11-26T08:49:50.675Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.56",
+                "gaseSensor": "404.86",
+                "solar-sensor": "846.79"
+            },
+            {
+                "Timestamp": "2024-11-26T08:51:02.454Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.52",
+                "gaseSensor": "2883.93",
+                "solar-sensor": "592.14"
+            },
+            {
+                "Timestamp": "2024-11-26T08:51:18.359Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.93",
+                "gaseSensor": "857.99",
+                "solar-sensor": "797.96"
+            },
+            {
+                "Timestamp": "2024-11-26T08:51:28.362Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.63",
+                "gaseSensor": "2847.75",
+                "solar-sensor": "25.44"
+            },
+            {
+                "Timestamp": "2024-11-26T08:51:38.367Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.37",
+                "gaseSensor": "2562.47",
+                "solar-sensor": "439.14"
+            },
+            {
+                "Timestamp": "2024-11-26T08:51:48.331Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.16",
+                "gaseSensor": "1725.98",
+                "solar-sensor": "229.64"
+            },
+            {
+                "Timestamp": "2024-11-26T08:51:58.384Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.91",
+                "gaseSensor": "1490.43",
+                "solar-sensor": "999.16"
+            },
+            {
+                "Timestamp": "2024-11-26T08:52:08.339Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.36",
+                "gaseSensor": "731.51",
+                "solar-sensor": "397.32"
+            },
+            {
+                "Timestamp": "2024-11-26T08:52:18.356Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.48",
+                "gaseSensor": "736.94",
+                "solar-sensor": "682.07"
+            },
+            {
+                "Timestamp": "2024-11-26T08:52:28.566Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.71",
+                "gaseSensor": "4395.57",
+                "solar-sensor": "726.35"
+            },
+            {
+                "Timestamp": "2024-11-26T08:52:38.433Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.01",
+                "gaseSensor": "4861.88",
+                "solar-sensor": "302.24"
+            },
+            {
+                "Timestamp": "2024-11-26T08:53:26.700Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.71",
+                "gaseSensor": "614.42",
+                "solar-sensor": "946.83"
+            },
+            {
+                "Timestamp": "2024-11-26T08:53:36.734Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.48",
+                "gaseSensor": "2159.83",
+                "solar-sensor": "60.21"
+            },
+            {
+                "Timestamp": "2024-11-26T08:53:46.686Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.19",
+                "gaseSensor": "4634.00",
+                "solar-sensor": "82.03"
+            },
+            {
+                "Timestamp": "2024-11-26T08:53:56.766Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.63",
+                "gaseSensor": "3126.18",
+                "solar-sensor": "783.80"
+            },
+            {
+                "Timestamp": "2024-11-26T08:54:06.692Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.87",
+                "gaseSensor": "3368.55",
+                "solar-sensor": "135.12"
+            },
+            {
+                "Timestamp": "2024-11-26T08:54:16.717Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.20",
+                "gaseSensor": "3077.28",
+                "solar-sensor": "901.11"
+            },
+            {
+                "Timestamp": "2024-11-26T08:54:26.748Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.22",
+                "gaseSensor": "2897.17",
+                "solar-sensor": "641.14"
+            },
+            {
+                "Timestamp": "2024-11-26T08:54:36.685Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.64",
+                "gaseSensor": "815.86",
+                "solar-sensor": "289.60"
+            },
+            {
+                "Timestamp": "2024-11-26T08:54:46.692Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.53",
+                "gaseSensor": "48.09",
+                "solar-sensor": "883.25"
+            },
+            {
+                "Timestamp": "2024-11-26T08:54:56.771Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.83",
+                "gaseSensor": "2620.97",
+                "solar-sensor": "799.44"
+            },
+            {
+                "Timestamp": "2024-11-26T08:55:06.803Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.63",
+                "gaseSensor": "3550.51",
+                "solar-sensor": "656.13"
+            },
+            {
+                "Timestamp": "2024-11-26T08:55:16.744Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.26",
+                "gaseSensor": "3396.85",
+                "solar-sensor": "979.86"
+            },
+            {
+                "Timestamp": "2024-11-26T08:55:26.717Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.37",
+                "gaseSensor": "4557.22",
+                "solar-sensor": "911.21"
+            },
+            {
+                "Timestamp": "2024-11-26T08:55:36.684Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.59",
+                "gaseSensor": "4240.81",
+                "solar-sensor": "586.07"
+            },
+            {
+                "Timestamp": "2024-11-26T08:55:46.780Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.27",
+                "gaseSensor": "4071.78",
+                "solar-sensor": "683.28"
+            },
+            {
+                "Timestamp": "2024-11-26T08:55:56.677Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "9.96",
+                "gaseSensor": "4763.60",
+                "solar-sensor": "327.57"
+            },
+            {
+                "Timestamp": "2024-11-26T08:56:06.719Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "20.35",
+                "gaseSensor": "1780.36",
+                "solar-sensor": "996.08"
+            },
+            {
+                "Timestamp": "2024-11-26T08:56:16.729Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.20",
+                "gaseSensor": "4892.86",
+                "solar-sensor": "40.29"
+            },
+            {
+                "Timestamp": "2024-11-26T08:56:26.777Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.80",
+                "gaseSensor": "3555.33",
+                "solar-sensor": "252.87"
+            },
+            {
+                "Timestamp": "2024-11-26T08:56:36.747Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.74",
+                "gaseSensor": "860.98",
+                "solar-sensor": "346.13"
+            },
+            {
+                "Timestamp": "2024-11-26T08:56:46.761Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.41",
+                "gaseSensor": "3427.38",
+                "solar-sensor": "824.13"
+            },
+            {
+                "Timestamp": "2024-11-26T08:57:15.874Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "10.70",
+                "gaseSensor": "698.79",
+                "solar-sensor": "916.93"
+            },
+            {
+                "Timestamp": "2024-11-26T08:57:25.757Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.21",
+                "gaseSensor": "390.47",
+                "solar-sensor": "403.28"
+            },
+            {
+                "Timestamp": "2024-11-26T08:57:35.791Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.70",
+                "gaseSensor": "2303.12",
+                "solar-sensor": "656.03"
+            },
+            {
+                "Timestamp": "2024-11-26T08:57:45.751Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.51",
+                "gaseSensor": "3039.93",
+                "solar-sensor": "79.64"
+            },
+            {
+                "Timestamp": "2024-11-26T08:57:55.779Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.83",
+                "gaseSensor": "4756.55",
+                "solar-sensor": "883.63"
+            },
+            {
+                "Timestamp": "2024-11-26T08:58:05.775Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.59",
+                "gaseSensor": "4628.46",
+                "solar-sensor": "376.53"
+            },
+            {
+                "Timestamp": "2024-11-26T08:58:15.768Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.54",
+                "gaseSensor": "4511.59",
+                "solar-sensor": "254.08"
+            },
+            {
+                "Timestamp": "2024-11-26T08:58:25.806Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.62",
+                "gaseSensor": "583.16",
+                "solar-sensor": "976.97"
+            },
+            {
+                "Timestamp": "2024-11-26T08:58:35.749Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.63",
+                "gaseSensor": "4531.69",
+                "solar-sensor": "27.40"
+            },
+            {
+                "Timestamp": "2024-11-26T08:58:45.828Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.69",
+                "gaseSensor": "3787.05",
+                "solar-sensor": "494.36"
+            },
+            {
+                "Timestamp": "2024-11-26T08:58:55.819Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.56",
+                "gaseSensor": "2433.66",
+                "solar-sensor": "959.89"
+            },
+            {
+                "Timestamp": "2024-11-26T08:59:05.725Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.37",
+                "gaseSensor": "2276.80",
+                "solar-sensor": "267.97"
+            },
+            {
+                "Timestamp": "2024-11-26T08:59:15.842Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "15.42",
+                "gaseSensor": "963.19",
+                "solar-sensor": "599.93"
+            },
+            {
+                "Timestamp": "2024-11-26T08:59:25.872Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.88",
+                "gaseSensor": "2745.81",
+                "solar-sensor": "580.23"
+            },
+            {
+                "Timestamp": "2024-11-26T08:59:35.770Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.42",
+                "gaseSensor": "156.55",
+                "solar-sensor": "116.28"
+            },
+            {
+                "Timestamp": "2024-11-26T08:59:45.840Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "13.49",
+                "gaseSensor": "4870.40",
+                "solar-sensor": "320.73"
+            },
+            {
+                "Timestamp": "2024-11-26T08:59:55.859Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "6.80",
+                "gaseSensor": "4493.61",
+                "solar-sensor": "248.41"
+            },
+            {
+                "Timestamp": "2024-11-26T09:00:05.820Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.51",
+                "gaseSensor": "4341.21",
+                "solar-sensor": "321.04"
+            },
+            {
+                "Timestamp": "2024-11-26T09:00:15.772Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.57",
+                "gaseSensor": "757.49",
+                "solar-sensor": "971.66"
+            },
+            {
+                "Timestamp": "2024-11-26T09:00:25.764Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "27.96",
+                "gaseSensor": "2054.78",
+                "solar-sensor": "193.96"
+            },
+            {
+                "Timestamp": "2024-11-26T09:00:35.750Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.00",
+                "gaseSensor": "2637.80",
+                "solar-sensor": "990.61"
+            },
+            {
+                "Timestamp": "2024-11-26T09:00:45.781Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "14.53",
+                "gaseSensor": "671.97",
+                "solar-sensor": "91.51"
+            },
+            {
+                "Timestamp": "2024-11-26T09:00:55.752Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "29.68",
+                "gaseSensor": "1295.32",
+                "solar-sensor": "807.46"
+            },
+            {
+                "Timestamp": "2024-11-26T09:01:05.797Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.55",
+                "gaseSensor": "1859.29",
+                "solar-sensor": "105.24"
+            },
+            {
+                "Timestamp": "2024-11-26T09:01:15.767Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.95",
+                "gaseSensor": "4033.45",
+                "solar-sensor": "636.80"
+            },
+            {
+                "Timestamp": "2024-11-26T09:01:25.824Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.78",
+                "gaseSensor": "689.27",
+                "solar-sensor": "377.08"
+            },
+            {
+                "Timestamp": "2024-11-26T09:01:35.760Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.60",
+                "gaseSensor": "4504.41",
+                "solar-sensor": "79.34"
+            },
+            {
+                "Timestamp": "2024-11-26T09:01:45.824Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.12",
+                "gaseSensor": "1811.87",
+                "solar-sensor": "515.14"
+            },
+            {
+                "Timestamp": "2024-11-26T09:01:55.787Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.35",
+                "gaseSensor": "1765.26",
+                "solar-sensor": "367.75"
+            },
+            {
+                "Timestamp": "2024-11-26T09:02:05.759Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.69",
+                "gaseSensor": "2267.29",
+                "solar-sensor": "918.51"
+            },
+            {
+                "Timestamp": "2024-11-26T09:02:15.776Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "21.43",
+                "gaseSensor": "2460.88",
+                "solar-sensor": "392.91"
+            },
+            {
+                "Timestamp": "2024-11-26T09:02:25.816Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.73",
+                "gaseSensor": "3692.25",
+                "solar-sensor": "86.08"
+            },
+            {
+                "Timestamp": "2024-11-26T09:02:35.833Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "23.02",
+                "gaseSensor": "205.50",
+                "solar-sensor": "684.77"
+            },
+            {
+                "Timestamp": "2024-11-26T09:02:45.772Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.54",
+                "gaseSensor": "474.90",
+                "solar-sensor": "871.25"
+            },
+            {
+                "Timestamp": "2024-11-26T09:02:55.808Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "5.95",
+                "gaseSensor": "4957.58",
+                "solar-sensor": "906.65"
+            },
+            {
+                "Timestamp": "2024-11-26T09:03:05.764Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.36",
+                "gaseSensor": "2424.79",
+                "solar-sensor": "176.75"
+            },
+            {
+                "Timestamp": "2024-11-26T09:03:15.806Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.98",
+                "gaseSensor": "4464.84",
+                "solar-sensor": "676.47"
+            },
+            {
+                "Timestamp": "2024-11-26T09:03:25.822Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "19.24",
+                "gaseSensor": "1753.55",
+                "solar-sensor": "898.16"
+            },
+            {
+                "Timestamp": "2024-11-26T09:03:35.840Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "22.25",
+                "gaseSensor": "3269.68",
+                "solar-sensor": "674.64"
+            },
+            {
+                "Timestamp": "2024-11-26T09:03:45.878Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "18.61",
+                "gaseSensor": "3526.31",
+                "solar-sensor": "155.68"
+            },
+            {
+                "Timestamp": "2024-11-26T09:03:55.792Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "7.09",
+                "gaseSensor": "3687.29",
+                "solar-sensor": "90.84"
+            },
+            {
+                "Timestamp": "2024-11-26T09:04:05.784Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "26.07",
+                "gaseSensor": "2923.88",
+                "solar-sensor": "125.62"
+            },
+            {
+                "Timestamp": "2024-11-26T09:14:58.377Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "17.66",
+                "gaseSensor": "240.23",
+                "solar-sensor": "294.71"
+            },
+            {
+                "Timestamp": "2024-11-26T09:15:08.304Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.78",
+                "gaseSensor": "1902.03",
+                "solar-sensor": "192.92"
+            },
+            {
+                "Timestamp": "2024-11-26T10:14:06.843Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "12.05",
+                "gaseSensor": "4443.93",
+                "solar-sensor": "885.13"
+            },
+            {
+                "Timestamp": "2024-11-26T10:14:16.860Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "24.29",
+                "gaseSensor": "558.83",
+                "solar-sensor": "957.34"
+            },
+            {
+                "Timestamp": "2024-11-26T10:14:26.816Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "25.70",
+                "gaseSensor": "3604.71",
+                "solar-sensor": "872.26"
+            },
+            {
+                "Timestamp": "2024-11-26T10:14:36.834Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "8.76",
+                "gaseSensor": "4280.52",
+                "solar-sensor": "363.81"
+            },
+            {
+                "Timestamp": "2024-11-26T10:14:46.851Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "16.91",
+                "gaseSensor": "725.15",
+                "solar-sensor": "310.75"
+            },
+            {
+                "Timestamp": "2024-11-26T10:41:09.723Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "11.38",
+                "gaseSensor": "315.59",
+                "solar-sensor": "580.24"
+            },
+            {
+                "Timestamp": "2024-11-26T10:42:47.261Z",
+                "ProductID": "3c5add95-a638-4481-803d-027791a6fd59",
+                "DeviceID": "fb8e6594-148b-45ae-a863-46460a2658a8",
+                "floatSensor": "28.11",
+                "gaseSensor": "13.43",
+                "solar-sensor": "408.50"
             }
         ]
     }
