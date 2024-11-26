@@ -140,14 +140,42 @@ sensor_colors = {
 # Separate Line Charts for Each Sensor using Plotly
 st.subheader("Line Charts: 🔍Sensor Data at given Time⌚")
 
-for sensor in ["floatSensor", "gaseSensor", "solar-sensor"]:
+for sensor in ["floatSensor"]:
     st.subheader(f"{sensor} at given Time")
     fig = px.line(
         filtered_df,
         x="Timestamp",
         y=sensor,
         #title=f"{sensor} at given Time",
-        labels={"Timestamp": "Time", sensor: "Sensor Value"},
+        labels={"Timestamp": "Time (hr)", sensor: "Water level (L)"},
+        line_shape="linear",
+        markers=True,
+    )
+    # Set the custom color for the sensor
+    fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
+    st.plotly_chart(fig)
+for sensor in [ "gaseSensor"]:
+    st.subheader(f"{sensor} at given Time")
+    fig = px.line(
+        filtered_df,
+        x="Timestamp",
+        y=sensor,
+        #title=f"{sensor} at given Time",
+        labels={"Timestamp": "Time (hr)", sensor: "Gas level (ppm)"},
+        line_shape="linear",
+        markers=True,
+    )
+    # Set the custom color for the sensor
+    fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
+    st.plotly_chart(fig)
+for sensor in [ "solar-sensor"]:
+    st.subheader(f"{sensor} at given Time")
+    fig = px.line(
+        filtered_df,
+        x="Timestamp",
+        y=sensor,
+        #title=f"{sensor} at given Time",
+        labels={"Timestamp": "Time (hr)", sensor: "Solar Energy consumption (KW)"},
         line_shape="linear",
         markers=True,
     )
