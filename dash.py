@@ -68,7 +68,7 @@ for sensor in ["floatSensor"]:
         x="Timestamp",
         y=sensor,
         #labels={"Timestamp": "Time", sensor: "Water level"},
-        title=f"{sensor} Water Level Over Time",
+        #title=f"{sensor} Water Level Over Time",
     )
     
     # Set the custom color for the sensor's bars
