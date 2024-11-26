@@ -56,7 +56,21 @@ st.markdown(
     <h2 style='text-align: center;'>💧📊Sensor Data Visualization📉☀️</h2>
     """, unsafe_allow_html=True
 )
-for sensor in ["floatSensor", "gaseSensor", "solar-sensor"]:
+for sensor in ["floatSensor"]:
+    st.subheader(f"{sensor} Over Time")
+    fig = px.line(
+        df,
+        x="Timestamp",
+        y=sensor,
+        #title=f"{sensor} Over Time",
+        labels={"Timestamp": "Time", sensor: "Water level"},
+        line_shape="linear",
+        markers=True,
+    )
+    # Set the custom color for the sensor
+    fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
+    st.plotly_chart(fig)
+for sensor in ["gaseSensor", "solar-sensor"]:
     st.subheader(f"{sensor} Over Time")
     fig = px.line(
         df,
