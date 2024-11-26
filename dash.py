@@ -141,7 +141,7 @@ sensor_colors = {
 st.subheader("Line Charts: 🔍Sensor Data at given Time⌚")
 
 for sensor in ["floatSensor"]:
-    st.subheader(f"{sensor} at given Time")
+    st.subheader("Water level at given Time")
     fig = px.line(
         filtered_df,
         x="Timestamp",
@@ -155,7 +155,7 @@ for sensor in ["floatSensor"]:
     fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
     st.plotly_chart(fig)
 for sensor in [ "gaseSensor"]:
-    st.subheader(f"{sensor} at given Time")
+    st.subheader("Gas level at given Time")
     fig = px.line(
         filtered_df,
         x="Timestamp",
@@ -169,7 +169,7 @@ for sensor in [ "gaseSensor"]:
     fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
     st.plotly_chart(fig)
 for sensor in [ "solar-sensor"]:
-    st.subheader(f"{sensor} at given Time")
+    st.subheader("Solar Energy consumed at given Time")
     fig = px.line(
         filtered_df,
         x="Timestamp",
