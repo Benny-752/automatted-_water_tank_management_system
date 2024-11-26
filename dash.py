@@ -70,7 +70,21 @@ for sensor in ["floatSensor"]:
     # Set the custom color for the sensor
     fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
     st.plotly_chart(fig)
-for sensor in ["gaseSensor", "solar-sensor"]:
+for sensor in ["gaseSensor"]:
+    st.subheader("Gas level Vs time")
+    fig = px.line(
+        df,
+        x="Timestamp",
+        y=sensor,
+        #title=f"{sensor} Over Time",
+        labels={"Timestamp": "Time", sensor: "Sensor Value"},
+        line_shape="linear",
+        markers=True,
+    )
+    # Set the custom color for the sensor
+    fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
+    st.plotly_chart(fig)
+for sensor in ["solar-sensor"]:
     st.subheader(f"{sensor} Over Time")
     fig = px.line(
         df,
@@ -84,7 +98,6 @@ for sensor in ["gaseSensor", "solar-sensor"]:
     # Set the custom color for the sensor
     fig.update_traces(line=dict(color=sensor_colors[sensor], width=2), marker=dict(size=8))
     st.plotly_chart(fig)
-
 # Dropdown to filter data by date and 
 st.subheader("🔍Searching of Sensor data by 📅Date and ⌚Time🔎")
 
