@@ -77,7 +77,7 @@ for sensor in ["gaseSensor"]:
         x="Timestamp",
         y=sensor,
         #title=f"{sensor} Over Time",
-        labels={"Timestamp": "Time", sensor: "Sensor Value"},
+        labels={"Timestamp": "Time", sensor: "Gas level"},
         line_shape="linear",
         markers=True,
     )
